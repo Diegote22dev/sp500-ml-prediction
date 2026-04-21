@@ -49,11 +49,11 @@ Datos históricos (OHLCV)
 ## Estructura del repositorio
 
 El proyecto se organiza en una estructura modular que permite separar datos, análisis y lógica del modelo:
-•	data/: contiene los datos del proyecto, separados en datos crudos (raw) y procesados (processed).
-•	notebooks/: incluye notebooks de análisis exploratorio y pruebas iniciales.
-•	src/: contiene el código fuente del sistema, incluyendo preprocesamiento, generación de features y modelos.
-•	README.md: documentación general del proyecto.
-•	requirements.txt: librerías necesarias para reproducir el entorno.
+-	data/: contiene los datos del proyecto, separados en datos crudos (raw) y procesados (processed).
+-	notebooks/: incluye notebooks de análisis exploratorio y pruebas iniciales.
+-	src/: contiene el código fuente del sistema, incluyendo preprocesamiento, generación de features y modelos.
+-	README.md: documentación general del proyecto.
+-	requirements.txt: librerías necesarias para reproducir el entorno.
 
 Esta estructura permite separar las distintas etapas del pipeline de datos, facilitando la organización, mantenimiento y reproducibilidad del proyecto.
 
