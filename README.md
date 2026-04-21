@@ -57,7 +57,7 @@ El proyecto se organiza en una estructura modular que permite separar datos, an�
 
 Esta estructura permite separar las distintas etapas del pipeline de datos, facilitando la organización, mantenimiento y reproducibilidad del proyecto.
 
-👉 
+👉 https://github.com/jrubio1912-oss/sp500-ml-prediction.git
 
 ## Gestión del proyecto
 
