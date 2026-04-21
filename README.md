@@ -32,11 +32,11 @@ Se seleccionan estos algoritmos por su capacidad de manejar datos tabulares, cap
 ## Arquitectura del sistema
 
 Datos históricos (OHLCV)
-→ Preprocesamiento de datos
-→ Feature Engineering (RSI, EMA, retornos, volatilidad)
-→ Modelo de Machine Learning
-→ Predicción (sube / baja + probabilidad)
-→ Visualización en aplicación web (Streamlit)
+- Preprocesamiento de datos
+- Feature Engineering (RSI, EMA, retornos, volatilidad)
+- Modelo de Machine Learning
+- Predicción (sube / baja + probabilidad)
+- Visualización en aplicación web (Streamlit)
 
 
 ## Tecnologías
