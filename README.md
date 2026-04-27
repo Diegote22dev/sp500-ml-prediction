@@ -24,7 +24,11 @@ El problema se aborda como una tarea de **clasificación supervisada**.
 
 Modelos a utilizar:
 - Random Forest  
-- XGBoost  
+- XGBoost
+- GradientBoosting,
+- SVR (todos en scikit-learn)
+- Máquinas de Vectores de Soporte (SVM). 
+
 
 Se seleccionan estos algoritmos por su capacidad de manejar datos tabulares, capturar relaciones no lineales y ser robustos frente al ruido típico de los mercados financieros.
 
